@@ -109,4 +109,4 @@ Use SQL Server Management Studio (SSMS) to manage the database.
 
 Developed by Virosshen A/L Sivasankar as a sole contributor of the Database & Cloud Security assignment.
 
-You can copy this content into your `README.md` file. Place the file in the root directory or alongside your `inventory-management-backend` and `inventory-management-frontend` folders.
+You can copy this content into your `README.md` file. Place the file in the root directory or alongside your `inventory-management (backend)` and `inventory-management (frontend)` folders.
