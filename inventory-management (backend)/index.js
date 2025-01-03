@@ -104,16 +104,6 @@ app.put('/products/:id', async (req, res) => {
     }
   });
 
-
-
-  
-  
-
-
-
-
-
-
 app.delete('/products/:id', async (req, res) => {
     const { id } = req.params;
     try {
