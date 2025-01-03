@@ -62,7 +62,7 @@ Download or clone the repository into your system.
       ```bash
    cd inventory-management (frontend)
 
-2. Install frontend dependencies: (node_modules - file not included) node_modules
+2. Install frontend dependencies: (node_modules - file not included)
     npm install
 
 4. Start the frontend server:
