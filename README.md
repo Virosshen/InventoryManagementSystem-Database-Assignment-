@@ -73,9 +73,9 @@ Download or clone the repository into your system.
     
 ### 4. Starting the servers.
 
-   i.  Start the backend server using node index.js in the inventory-management-backend folder.
+   i.  Start the backend server using node index.js in the inventory-management (backend) folder.
 
-   ii. Start the frontend server using npm run dev in the inventory-management-frontend folder.
+   ii. Start the frontend server using npm run dev in the inventory-management (frontend) folder.
 
    iii. Open your browser and go to: http://localhost:5173
 
