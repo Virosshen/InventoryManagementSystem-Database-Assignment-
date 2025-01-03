@@ -70,7 +70,7 @@ Download or clone the repository into your system.
 4. The frontend server will run on:
     http://localhost:5173
     
-### 4. Frontend Setup
+### 4. Starting the servers.
 
    i.  Start the backend server using node index.js in the inventory-management-backend folder.
 
