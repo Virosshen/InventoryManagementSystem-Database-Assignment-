@@ -39,7 +39,7 @@ Download or clone the repository into your system.
    ```bash
    cd inventory-management (backend)
 
-2. Install backend dependencies: (very crucial step, file not included)
+2. Install backend dependencies: (very crucial step, file not included) - node_modules
     npm install
 
 3. Configure database connection in the db.js file. Update the SQL Server details like:
@@ -59,15 +59,16 @@ Download or clone the repository into your system.
 ### 3. Frontend Setup
 
 1. Navigate to the frontend folder:
-    cd inventory-management (frontend)
+      ```bash
+   cd inventory-management (frontend)
 
-2. Install frontend dependencies: (very crucial step, file not included)
+2. Install frontend dependencies: (very crucial step, file not included) node_modules
     npm install
 
-3. Start the frontend server:
+4. Start the frontend server:
     npm run dev
 
-4. The frontend server will run on:
+5. The frontend server will run on:
     http://localhost:5173
     
 ### 4. Starting the servers.
